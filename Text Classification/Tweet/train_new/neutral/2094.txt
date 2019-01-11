@@ -1,1 +1,0 @@
-works with Google #chrome but not Internet Explorer.

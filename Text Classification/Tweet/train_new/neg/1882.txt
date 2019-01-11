@@ -1,1 +1,0 @@
-I log in, view reservations, try view specific reservation &amp; takes me back to login page,
