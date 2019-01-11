@@ -1,0 +1,1 @@
+@united Adding reservation to iOS app doesn't show up on desktop site when logged in. And miles can't be redeemed for upgrades thru your app
