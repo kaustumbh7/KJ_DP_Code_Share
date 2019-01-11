@@ -1,0 +1,1 @@
+@SouthwestAir fyi the link in your baggage incident email redirects to a 404 on mobile. The link auto changes on mobile. Desktop works fine.
