@@ -1,0 +1,3 @@
+Yes. Works in Firefox. 
+
+Can do everything but finish purchase. Button turns gray, never submits. For a couple weeks now.
