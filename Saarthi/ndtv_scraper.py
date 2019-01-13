@@ -23,7 +23,7 @@ for category in categories_news:
     url  = "https://khabar.ndtv.com/news/" + str(category) + "/page-"
     text_lst = []
 
-    for url_index in range(1,50):
+    for url_index in range(1,51):
         web_page = urlopen(url+str(url_index))
 
         soup = BeautifulSoup(web_page, 'html.parser')
