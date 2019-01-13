@@ -24,8 +24,11 @@ for category in categories_news:
     text_lst = []
 
     for url_index in range(1,51):
-        web_page = urlopen(url+str(url_index))
-
+        try:
+        	web_page = urlopen(url+str(url_index))
+		except:
+			continue
+			
         soup = BeautifulSoup(web_page, 'html.parser')
 
         # Extracting individual articles url
