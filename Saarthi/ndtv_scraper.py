@@ -48,3 +48,4 @@ for category in categories_news:
                 
                 # Append to dataframe 
                 df = df.append({'source':'ndtv','category':str(category),'text':para_str}, ignore_index=True)
+df.to_csv('ndtv_hindi_data')
