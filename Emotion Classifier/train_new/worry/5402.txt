@@ -1,0 +1,1 @@
+@shanselman: first impression is that it's considerably  slower to boot than 2008  #beta1

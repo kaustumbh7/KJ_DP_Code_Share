@@ -1,0 +1,1 @@
+Dell FX100 Pc-over-IP audio device (Teradici) is giving me a hard time in #Linux #Ubuntu Jaunty  Kernel isnt loading the snd-hda-intel drv

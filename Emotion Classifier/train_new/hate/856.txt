@@ -1,0 +1,1 @@
+I hate my vserver. Java says: Could not reserve enough space for object heap

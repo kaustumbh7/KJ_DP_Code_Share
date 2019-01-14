@@ -1,0 +1,1 @@
+Gday... Do you know if NHibernate has issues with COM Interop (VB6 &lt;-&gt; .Net Wrapper &lt;-&gt; .Net+NHibernate dll)? I'm getting crazy

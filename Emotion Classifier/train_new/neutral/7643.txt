@@ -1,0 +1,1 @@
+@nikicheong try installing Twibble which is a Java based app that should work on most phones

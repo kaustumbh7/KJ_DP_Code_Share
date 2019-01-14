@@ -1,0 +1,1 @@
+Don't remember installing phpMyAdmin on this dev machine but happy to type host/phpmyadmin &amp; find it there!  (didn't use xampp) #senility

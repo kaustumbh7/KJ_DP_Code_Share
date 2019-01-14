@@ -1,0 +1,1 @@
+@dwhelan I've wondered about rake to.  The client has made it clear .NET only, don't force devs to learn a new lang  #agile #ccnet

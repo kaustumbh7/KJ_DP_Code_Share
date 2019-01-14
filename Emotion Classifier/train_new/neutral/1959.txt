@@ -1,0 +1,1 @@
+@ahockley: get into terminal and kill -9 it.  which is really what force quit should do

@@ -1,0 +1,1 @@
+Been working on a framework for web based #SL application. Have product registration, server, login, site, security, &amp; comms all done

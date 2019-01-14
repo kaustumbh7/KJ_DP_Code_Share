@@ -1,0 +1,1 @@
+Have somebody installed vCenter Server 4 on Windows 2008 x64 w SP2?  SP2 is not in the compability matrix

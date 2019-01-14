@@ -1,0 +1,1 @@
+Now, lets do funkey stuff, talking with magento, through xmlrpc with codeignite and output with amf (Zend) to flash

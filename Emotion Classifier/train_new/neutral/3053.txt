@@ -1,0 +1,1 @@
+I hate different referenced assemblies. My FNH goes against castle 1.1, Caliburn against 1.03 .. not to mention dynamicproxy in NH

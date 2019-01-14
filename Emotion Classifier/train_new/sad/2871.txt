@@ -1,0 +1,1 @@
+Why did sound input for my computer stop working?  It's not the mic or jack (USB webcam mic doesn't work either) Checked input controls.

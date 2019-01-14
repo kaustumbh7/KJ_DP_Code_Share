@@ -1,0 +1,1 @@
+@codemonkeyism there were attempts to somehow extend inner classes, which would be close to #closure, can't find the ref ATM

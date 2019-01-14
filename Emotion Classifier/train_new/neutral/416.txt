@@ -1,0 +1,1 @@
+You know... time was, you could look at a Web page's source code and figure out how it worked. Now it takes a lot more effort.

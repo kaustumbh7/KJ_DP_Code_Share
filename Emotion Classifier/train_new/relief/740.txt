@@ -1,0 +1,1 @@
+Reinstalled Ubuntu on my laptop, this time using ext4; the new filesystem. System boot time, from GRUB to full operability: 30 seconds

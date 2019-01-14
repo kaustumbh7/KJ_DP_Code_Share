@@ -1,0 +1,1 @@
+Migrating a Sybase ASE SPARC Sun Solaris based into a Solaris x86 based. That should be fun

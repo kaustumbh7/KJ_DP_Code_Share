@@ -1,0 +1,1 @@
+has now found a bug in the RHEL5 bnx2 driver   Cant handle high packets per second (&gt; 50k)

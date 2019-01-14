@@ -1,0 +1,1 @@
+ugh, not sure i have the patience or remaining intelligence at this point in the day (week?) to refactor and rewrite this package of code

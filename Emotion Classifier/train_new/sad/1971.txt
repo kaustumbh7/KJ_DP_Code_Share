@@ -1,0 +1,1 @@
+SPGridView is looking prettier, but I'm pretty sure my code is very ugly.
