@@ -1,0 +1,1 @@
+@ChrisLAS never tried to FTP to S3, but I use FireFTP (Firefox browser addin) ... no mention of S3 support on their site though.

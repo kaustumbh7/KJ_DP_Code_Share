@@ -1,0 +1,1 @@
+@PirateEric When I read that, my first thought was using Cast&lt;T&gt;() as a status symbol

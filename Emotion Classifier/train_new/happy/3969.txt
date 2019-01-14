@@ -1,0 +1,1 @@
+#PhpEd 5.6 running successfuly via #wine , now to get EMS running

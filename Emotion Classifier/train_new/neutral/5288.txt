@@ -1,0 +1,1 @@
+@WriterCharly 100,000 / 60 = 1667 words/day.  1667 / 10 = 167 words/hour.  167 / 60 = 2.8 words/minute.  No pressure.

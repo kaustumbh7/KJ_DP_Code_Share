@@ -1,0 +1,1 @@
+Damn, looks like the USB card reader that I got from Dealextreme doesn't work. I can see the files on the card but they are read only

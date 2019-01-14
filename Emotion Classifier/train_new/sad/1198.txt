@@ -1,0 +1,1 @@
+VCenter is screwing up on me today.  More specifically the MSSQL server that it connects to.

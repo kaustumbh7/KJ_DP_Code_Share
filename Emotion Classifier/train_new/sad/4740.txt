@@ -1,0 +1,1 @@
+The Gray Hat Python book reminded me how many security tools are python version specific, which is a pain if you need to use all of them

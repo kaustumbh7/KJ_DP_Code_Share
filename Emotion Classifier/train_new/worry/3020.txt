@@ -1,0 +1,1 @@
+*uh* totally forgot the gentoo reinstallation  don't know what i should backup. the make.conf, my home and /boot. nothing else..?

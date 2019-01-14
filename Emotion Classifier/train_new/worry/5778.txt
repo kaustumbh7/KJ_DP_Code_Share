@@ -1,0 +1,1 @@
+Printing from Opera gives me a much better result (but printing to PDF it names it _stdin_.pdf) - always gotta compromise

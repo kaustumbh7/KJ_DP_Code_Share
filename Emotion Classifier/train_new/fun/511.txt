@@ -1,0 +1,1 @@
+Built a mini CDN over the past few days.. only has 3 locations (AU, EU, US) but it has GeoIP - quite fun to meddle with

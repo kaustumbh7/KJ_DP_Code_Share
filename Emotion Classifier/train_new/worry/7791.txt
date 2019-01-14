@@ -1,0 +1,1 @@
+@niw Thought you should mention that you don't need to enable Growl in Tweetie to make your plugin work, and to avoid duped notifications

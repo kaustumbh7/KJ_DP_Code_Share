@@ -1,0 +1,1 @@
+Trying to install a vodafone internet key an an eeepc. I remember once it worked out of the box. But today it doesn't want to work

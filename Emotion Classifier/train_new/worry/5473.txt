@@ -1,0 +1,1 @@
+Giving up. Everyone and their cat is using Castle.DynamicProxy2. 3 out of 4 of my dependencies need each a different version of DynProxy2

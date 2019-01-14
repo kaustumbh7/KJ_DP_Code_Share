@@ -1,0 +1,1 @@
+Achieving a new appreciation on how a xml build script can really be painful and cumbersome

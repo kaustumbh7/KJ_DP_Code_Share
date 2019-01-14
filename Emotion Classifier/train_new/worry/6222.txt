@@ -1,0 +1,1 @@
+http://twitpic.com/4j8us - It is interesting that VS2003 generates a setup script for uninstall.

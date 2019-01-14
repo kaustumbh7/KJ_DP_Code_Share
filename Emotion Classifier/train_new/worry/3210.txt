@@ -1,0 +1,1 @@
+@zeldman For me everything ok except install crashed at the end and now Safari crashes at every cmd+Q
