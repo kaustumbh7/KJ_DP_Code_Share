@@ -1,0 +1,1 @@
+@equaliser You can create GPX files from gmaps-pedometer,its a 3rd party link.I had errors with #chrome &amp; #ie7 so far

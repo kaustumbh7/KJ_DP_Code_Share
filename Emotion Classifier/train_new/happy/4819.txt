@@ -1,0 +1,1 @@
+@mbrevoort Thanks - that works a treat  Need to post that xml really though - thinking about how to emulate rails' ActiveResource

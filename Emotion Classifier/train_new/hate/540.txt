@@ -1,0 +1,1 @@
+Getting AxKit running on Ubuntu 8.04 is making my head explode.

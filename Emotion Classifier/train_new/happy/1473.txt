@@ -1,0 +1,1 @@
+Wow...VirtualPC screen does not go black anymore in Win7 RC! Also, there's no NVidia driver crashing...I'm happy I did the upgrade

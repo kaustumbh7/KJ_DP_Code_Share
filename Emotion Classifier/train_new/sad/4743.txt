@@ -1,0 +1,1 @@
+Intel gfx driver situation much better with recent upgrades. kernel 2.6.30rc4 and driver from git: Suspend working again, fewer mem leaks

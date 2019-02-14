@@ -1,0 +1,1 @@
+Dear intertweet, plz 2 hack up a spotify plugin for Songbird. The SDK exists already. Just needs code

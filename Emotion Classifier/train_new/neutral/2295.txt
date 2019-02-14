@@ -1,0 +1,1 @@
+Post-crash Spotlight is now spinning its wheels indexing my Time Machine backup drive. Naturally the drive is in the &quot;do not index&quot; list

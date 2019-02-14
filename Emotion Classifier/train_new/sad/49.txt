@@ -1,0 +1,1 @@
+@xdjio Have a 3ware 9650SE, not fast enough for 3x X25-M SSD RAID5. 800Mhz IOP on the HPT. Might try an Adaptec 5405 (1.2Ghz).

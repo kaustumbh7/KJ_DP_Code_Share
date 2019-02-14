@@ -1,0 +1,1 @@
+I'll also have to fix that in iTunes when blip.tv changes the URL since that's part of the RSS feed

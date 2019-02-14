@@ -1,0 +1,1 @@
+@thunderror U can play as ur avatar (1st person) *or* as his team member (3rd person). Battles implement real-time strategy. AoE style.

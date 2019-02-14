@@ -1,0 +1,1 @@
+Downloaded EeeControl for my Eee PC today. Was playing with the settings to make the fan kick in at 1500RPM if above 55C, 0RPM if under..

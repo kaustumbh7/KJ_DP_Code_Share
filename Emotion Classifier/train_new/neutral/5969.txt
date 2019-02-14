@@ -1,0 +1,1 @@
+Discovered that Numpy arrays can hold values of any type.  Useful for manipulating arrays of numbers with uncertainties.

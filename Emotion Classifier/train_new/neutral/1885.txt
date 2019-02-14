@@ -1,0 +1,1 @@
+@brianjking If the drive is automatically ejecting supported discs (ie CD-R), and you can't boot from a disc, it's time for AppleCare

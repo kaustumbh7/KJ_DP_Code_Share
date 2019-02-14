@@ -1,0 +1,1 @@
+@caniszczyk Agreed! Though Eclipse apps hinder collecting the heap dump by catching OOME. Had to muck about in JConsole

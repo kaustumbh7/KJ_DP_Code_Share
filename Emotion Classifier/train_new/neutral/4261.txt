@@ -1,0 +1,1 @@
+@siovene And Clang rocks, so you're using it, right?  Anyways, according to the comments it's in apple's gcc too, dunno how public tho

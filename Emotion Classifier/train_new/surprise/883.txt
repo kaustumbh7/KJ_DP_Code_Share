@@ -1,0 +1,1 @@
+Test discovery just missed being in Py3.1

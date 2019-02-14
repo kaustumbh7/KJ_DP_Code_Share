@@ -1,0 +1,1 @@
+@nikhilnarayanan Had not noticed. Must be leading to some inventory tracking issues too, if the s/ws only support standard SKUs

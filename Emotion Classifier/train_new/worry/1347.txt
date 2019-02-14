@@ -1,0 +1,1 @@
+@JSMSoftware IronPython + Windows Mobile is a no-go. Compact Framework doesn't support Reflection.Emit.

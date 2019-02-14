@@ -1,0 +1,1 @@
+Java Concurrency in Practice is probably the best Java book I've ever bought. There's a recipe in there for interrupting blocking IO ops

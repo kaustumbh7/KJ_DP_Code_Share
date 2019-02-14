@@ -1,0 +1,1 @@
+Just updated #Tweetie and open in browser is still broken.

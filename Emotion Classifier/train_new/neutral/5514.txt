@@ -1,0 +1,1 @@
+@i0n, OR write a CMS that uses git for versioning  check out rails-git.  I'd be interested in working on something like that.

@@ -1,0 +1,1 @@
+@geminianeyes it didnt  - from research the traffic in this beautiful system of twitter is approx 100msg/second.. mine only grabs 6msg/sec

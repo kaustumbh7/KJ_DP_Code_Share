@@ -1,0 +1,1 @@
+Every element in the DOM with children is a single parent

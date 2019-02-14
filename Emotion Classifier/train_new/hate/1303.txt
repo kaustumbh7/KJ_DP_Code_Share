@@ -1,0 +1,1 @@
+discovered cause of a bug in the new #NetPLAYER 4 build. Publishing bug fix now, hopefully new beta by tomorrow
